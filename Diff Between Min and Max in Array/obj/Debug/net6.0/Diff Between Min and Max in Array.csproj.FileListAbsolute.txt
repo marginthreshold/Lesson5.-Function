@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\bin\Debug\net6.0\Diff Between Min and Max in Array.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\bin\Debug\net6.0\Diff Between Min and Max in Array.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\bin\Debug\net6.0\Diff Between Min and Max in Array.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\bin\Debug\net6.0\Diff Between Min and Max in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\bin\Debug\net6.0\Diff Between Min and Max in Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\refint\Diff Between Min and Max in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\Diff Between Min and Max in Array.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Diff Between Min and Max in Array\obj\Debug\net6.0\ref\Diff Between Min and Max in Array.dll
