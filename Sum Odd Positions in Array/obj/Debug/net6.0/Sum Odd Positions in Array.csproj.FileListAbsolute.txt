@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\bin\Debug\net6.0\Sum Odd Positions in Array.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\bin\Debug\net6.0\Sum Odd Positions in Array.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\bin\Debug\net6.0\Sum Odd Positions in Array.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\bin\Debug\net6.0\Sum Odd Positions in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\bin\Debug\net6.0\Sum Odd Positions in Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\refint\Sum Odd Positions in Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\Sum Odd Positions in Array.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson5. Functions\Sum Odd Positions in Array\obj\Debug\net6.0\ref\Sum Odd Positions in Array.dll
