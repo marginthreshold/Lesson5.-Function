@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Longest Repeting Elements in Array/1.0.0": {
+        "runtime": {
+          "Longest Repeting Elements in Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest Repeting Elements in Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
